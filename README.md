@@ -1,3 +1,5 @@
+## 🗿 About Me:
+
 🚀 Hello, World! I'm Fai Refriandi
 Checkout my portfolio here: https://fairstain.my.id
 
