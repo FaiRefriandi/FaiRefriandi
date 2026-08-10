@@ -1,5 +1,3 @@
-## About Me:
-
 ## About Me
 
 ### Hello, I'm Fai Refriandi
