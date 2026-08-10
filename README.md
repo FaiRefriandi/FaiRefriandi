@@ -1,21 +1,29 @@
 ## About Me:
 
-Hello, World! I'm Fai Refriandi
+## About Me
 
-Checkout my portfolio here: https://fairstain.my.id
+### Hello, I'm Fai Refriandi
 
-Fresh Graduate | Universitas Komputer Indonesia (UNIKOM)
+I am a **Computer Science graduate from Universitas Komputer Indonesia (UNIKOM)** with a strong interest in **Frontend Development, Android Development, integrated software systems, and Agentic AI**.
 
-Currently:
-Passionate about Frontend Development, Android Development, and modern integrated systems. I have hands-on experience with React.js, Kotlin, JavaScript, and SQL, and I enjoy building clean, user-centered digital experiences.
-Eager to learn, grow, and contribute to impactful tech projects!
+I have hands-on experience with **React.js, Kotlin, JavaScript, Java, and SQL**, focusing on building clean, functional, and user-centered applications.
 
-Get in Touch:
+Beyond traditional software development, I am particularly interested in the evolving field of **Agentic AI** and how autonomous AI systems can reason, interact with tools, and execute complex workflows. I enjoy exploring how AI agents can be integrated into modern applications to automate processes, improve productivity, and create more intelligent digital experiences.
 
-Email: frefriandi@gmail.com
+My interests also extend to designing systems that connect intuitive user interfaces with reliable backend services, APIs, and AI-driven capabilities. I continuously explore emerging technologies and improve my development practices to better understand how modern software and artificial intelligence can work together.
 
-LinkedIn: https://www.linkedin.com/in/fairefriandi/
+I am open to opportunities where I can contribute to meaningful technology projects, collaborate with development teams, and further strengthen my expertise in **software development and AI-driven systems**.
 
+### Portfolio
+
+Explore my projects and work at:
+
+**https://fairstain.my.id**
+
+### Contact
+
+**Email:** [frefriandi@gmail.com](mailto:frefriandi@gmail.com)
+**LinkedIn:** https://www.linkedin.com/in/fairefriandi/
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FaiRefriandi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fairefriandi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xFrzLss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frefriandi@gmail.com) 
