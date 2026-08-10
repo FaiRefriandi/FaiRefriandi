@@ -4,8 +4,6 @@
 
 I am a **Computer Science graduate from Universitas Komputer Indonesia (UNIKOM)** with a strong interest in **Frontend Development, Android Development, integrated software systems, and Agentic AI**.
 
-I have hands-on experience with **React.js, Kotlin, JavaScript, Java, and SQL**, focusing on building clean, functional, and user-centered applications.
-
 Beyond traditional software development, I am particularly interested in the evolving field of **Agentic AI** and how autonomous AI systems can reason, interact with tools, and execute complex workflows. I enjoy exploring how AI agents can be integrated into modern applications to automate processes, improve productivity, and create more intelligent digital experiences.
 
 My interests also extend to designing systems that connect intuitive user interfaces with reliable backend services, APIs, and AI-driven capabilities. I continuously explore emerging technologies and improve my development practices to better understand how modern software and artificial intelligence can work together.
