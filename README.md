@@ -2,7 +2,7 @@
 
 ### Hello, I'm Fai Refriandi
 
-I am a **Computer Science graduate from Universitas Komputer Indonesia (UNIKOM)** with a strong interest in **Frontend Development, Android Development, integrated software systems, and Agentic AI**.
+I am a **Computer Science graduate from Universitas Komputer Indonesia (UNIKOM)** with a strong interest in **Website Development, Android Development, integrated software systems, and Agentic AI**.
 
 Beyond traditional software development, I am particularly interested in the evolving field of **Agentic AI** and how autonomous AI systems can reason, interact with tools, and execute complex workflows. I enjoy exploring how AI agents can be integrated into modern applications to automate processes, improve productivity, and create more intelligent digital experiences.
 
