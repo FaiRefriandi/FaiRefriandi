@@ -21,14 +21,5 @@ Explore my projects and work at:
 **Email:** [frefriandi@gmail.com](mailto:frefriandi@gmail.com)
 **LinkedIn:** https://www.linkedin.com/in/fairefriandi/
 
-## Socials:
 
-[<img src="https://svgl.app/library/facebook.svg" width="32" height="32" alt="Facebook">](https://facebook.com/FaiRefriandi)
-[<img src="https://svgl.app/library/linkedin.svg" width="32" height="32" alt="LinkedIn">](https://linkedin.com/in/fairefriandi)
-[<img src="https://svgl.app/library/x.svg" width="32" height="32" alt="X">](https://x.com/0xFrzLss)
-[<img src="https://svgl.app/library/gmail.svg" width="32" height="32" alt="Email">](mailto:frefriandi@gmail.com)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=FaiRefriandi&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
