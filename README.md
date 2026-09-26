@@ -14,7 +14,7 @@ I am open to opportunities where I can contribute to meaningful technology proje
 
 Explore my projects and work at:
 
-**https://fairstain.my.id**
+**https://fr.is-a.dev/**
 
 ### Contact
 
@@ -22,9 +22,13 @@ Explore my projects and work at:
 **LinkedIn:** https://www.linkedin.com/in/fairefriandi/
 
 ## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FaiRefriandi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fairefriandi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xFrzLss) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frefriandi@gmail.com) 
+
+[<img src="https://svgl.app/library/facebook.svg" width="32" height="32" alt="Facebook">](https://facebook.com/FaiRefriandi)
+[<img src="https://svgl.app/library/linkedin.svg" width="32" height="32" alt="LinkedIn">](https://linkedin.com/in/fairefriandi)
+[<img src="https://svgl.app/library/x.svg" width="32" height="32" alt="X">](https://x.com/0xFrzLss)
+[<img src="https://svgl.app/library/gmail.svg" width="32" height="32" alt="Email">](mailto:frefriandi@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FaiRefriandi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=FaiRefriandi&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
